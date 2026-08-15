@@ -8,3 +8,5 @@ cp ~/.bashrc ./
 cp ~/.config/kitty/kitty.conf ./.config/kitty
 cp ~/.config/kitty/current-theme.conf ./.config/kitty
 
+cp ~/.config/nvim/init.lua ./.config/nvim
+
